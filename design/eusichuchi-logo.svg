@@ -26,9 +26,9 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="277.02461"
-     inkscape:cx="192.29706"
-     inkscape:zoom="8.0097722"
+     inkscape:cy="305.26207"
+     inkscape:cx="172.80865"
+     inkscape:zoom="11.078634"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -103,5 +103,31 @@
          x="37.296261"
          y="79.012833"
          style="fill:#ff6600;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke:#ff6600;">EusiChuchi</tspan></text>
+    <text
+       id="text852"
+       y="85.211655"
+       x="37.042591"
+       style="font-size:4.5861px;line-height:33.0729px;font-family:'Yeon Sung';-inkscape-font-specification:'Yeon Sung';letter-spacing:0px;word-spacing:0px;fill:#999999;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="327.66721"
+       inkscape:export-ydpi="327.66721"><tspan
+         style="fill:#999999;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         y="85.211655"
+         x="37.042591"
+         id="tspan850"
+         sodipodi:role="line">EusiChuchi</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.5861px;line-height:33.0729px;font-family:'Yeon Sung';-inkscape-font-specification:'Yeon Sung';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:#ffffff;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+       x="37.296261"
+       y="85.095734"
+       id="text856"
+       inkscape:export-xdpi="327.66721"
+       inkscape:export-ydpi="327.66721"><tspan
+         sodipodi:role="line"
+         id="tspan854"
+         x="37.296261"
+         y="85.095734"
+         style="fill:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke:#ffffff;">EusiChuchi</tspan></text>
   </g>
 </svg>
